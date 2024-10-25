@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
+    font-size: 16px;
 }
 
 body {
@@ -25,7 +26,6 @@ body {
 h1 {
     text-align: center;
     margin-bottom: 20px;
-    font-size: 24px;
 }
 
 .form-group {
@@ -79,7 +79,6 @@ textarea {
     color: white;
     border: none;
     border-radius: 5px;
-    font-size: 16px;
     cursor: pointer;
     margin-top: 20px;
 }
